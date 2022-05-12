@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Generated Geojson files
+*.geojson
+
+# Cache from OSMPythonTools
+cache/
