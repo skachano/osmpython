@@ -22,36 +22,106 @@ narach = Overpass().query("relation(6722721);out body geom;")
 query4 = overpassQueryBuilder(area=by.areaId(), elementType=[
     'relation'], selector=['"admin_level"="4"', '"place"="city"'], includeGeometry=True)
 minsk = Overpass().query(query4)
+# Arexausk is not included
+arexausk = Overpass().query("relation(6809905);out body geom;")
 
 final_json = {"type": "FeatureCollection", "features": []}
+node_json = {"type": "FeatureCollection", "features": []}
+pcenters_json = {"type": "FeatureCollection", "features": []}
+
 sss = selsavet.elements()
 for ss, i in zip(sss, range(len(sss))):
     poly = {"type": "Feature",
             "properties": {"name": str(i)},
             "geometry": ss.geometry()}
     final_json["features"].append(poly)
+    node = {"type": "Feature",
+            "properties": {"name": str(i)},
+            "geometry": None}
+    for memb in ss.members():
+        if memb.type() == 'node':
+            node["geometry"] = memb.geometry()
+            break
+    node_json["features"].append(node)
+    if "place" in ss.tags():
+        pcenters_json["features"].append(node)
 cs = vobl.elements()
 for c, i in zip(cs, range(len(sss), len(sss)+len(cs))):
     poly = {"type": "Feature",
             "properties": {"name": str(i)},
             "geometry": c.geometry()}
     final_json["features"].append(poly)
+    node = {"type": "Feature",
+            "properties": {"name": str(i)},
+            "geometry": None}
+    for memb in c.members():
+        if memb.type() == 'node':
+            node["geometry"] = memb.geometry()
+            break
+    node_json["features"].append(node)
+    if "place" in c.tags():
+        pcenters_json["features"].append(node)
 zs = voblt.elements()
 for z, i in zip(zs, range(len(sss)+len(cs), len(sss)+len(cs)+len(zs))):
     poly = {"type": "Feature",
             "properties": {"name": str(i)},
             "geometry": z.geometry()}
     final_json["features"].append(poly)
+    node = {"type": "Feature",
+            "properties": {"name": str(i)},
+            "geometry": None}
+    for memb in z.members():
+        if memb.type() == 'node':
+            node["geometry"] = memb.geometry()
+            break
+    node_json["features"].append(node)
+    if "place" in z.tags():
+        pcenters_json["features"].append(node)
 n = narach.elements()[0]
 poly = {"type": "Feature",
         "properties": {"name": str(len(sss)+len(cs)+len(zs))},
         "geometry": n.geometry()}
 final_json["features"].append(poly)
+node = {"type": "Feature",
+        "properties": {"name": str(i)},
+        "geometry": None}
+for memb in n.members():
+    if memb.type() == 'node':
+        node["geometry"] = memb.geometry()
+        break
+    node_json["features"].append(node)
 m = minsk.elements()[0]
 poly = {"type": "Feature",
         "properties": {"name": str(len(sss)+len(cs)+len(zs)+1)},
         "geometry": m.geometry()}
 final_json["features"].append(poly)
+node = {"type": "Feature",
+        "properties": {"name": str(i)},
+        "geometry": None}
+for memb in m.members():
+    if memb.type() == 'node':
+        node["geometry"] = memb.geometry()
+        break
+    node_json["features"].append(node)
+    if "place" in m.tags():
+        pcenters_json["features"].append(node)
+a = arexausk.elements()[0]
+poly = {"type": "Feature",
+        "properties": {"name": str(len(sss)+len(cs)+len(zs)+2)},
+        "geometry": a.geometry()}
+final_json["features"].append(poly)
+node = {"type": "Feature",
+        "properties": {"name": str(i)},
+        "geometry": None}
+for memb in a.members():
+    if memb.type() == 'node':
+        node["geometry"] = memb.geometry()
+        break
+    node_json["features"].append(node)
 
-with open("final_json.geojson", "w") as f:
+with open("boundaries.geojson", "w") as f:
     json.dump(final_json, f)
+with open("centers.geojson", "w") as f:
+    json.dump(node_json, f)
+with open("pcenters.geojson", "w") as f:
+    json.dump(pcenters_json, f)

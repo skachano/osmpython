@@ -1,0 +1,191 @@
+Damačava, FireBrick, 494, 493, 492
+Malaryta, FireBrick, 565, 562, 561, 560, 91, 563, 564, 559, 566
+Brest, FireBrick, 491, 486, 1298, 484, 490, 485, 488
+Žabinka, FireBrick, 487, 590, 589, 591, 64, 587, 588, 592, 593
+Vysokaje, FireBrick, 478, 489, 481, 479, 69, 471, 483, 482 
+Kamánéc, FireBrick, 475, 474, 68, 476, 480, 473, 472, 477
+Kobryń, FireBrick, 549, 558, 557, 551, 87, 554, 548, 553, 552
+Antopaĺ, FireBrick, 227, 556, 221, 550, 555, 217
+Bároza, FireBrick, 840, 836, 842, 834, 843, 839, 837, 841
+Pružany, FireBrick, 468, 462, 92, 465, 463, 466, 467
+Šarašoŭ, FireBrick, 464, 460, 470, 461
+Drahičyn, DarkViolet, 222, 225, 218, 63, 223, 224, 220, 219, 216, 226
+Céláxany, DarkViolet, 824, 820, 823, 818, 821
+Janaŭ, DarkViolet, 540, 544, 546, 547, 65, 543, 539, 538, 542, 541, 545
+Lahišyn, DarkViolet, 534, 528, 526, 523, 525, 517, 536, 870, 531
+Pinsk, DarkViolet, 532, 524, 537, 521, 515, 522, 519, 1302, 518, 514, 533, 530, 535, 527, 529, 520, 516
+Stolin, DarkViolet, 507, 496, 502, 508, 498, 503, 509, 500, 93, 497, 505, 513, 512
+Davyd-Haradok, DarkViolet, 506, 495, 499, 94, 510, 501, 504, 511
+Turaŭ, DarkViolet, 882, 45, 876, 873, 576, 584, 582, 875
+Śvislač, DarkCyan, 456, 455, 453, 457
+Porazaŭ, DarkCyan, 454, 458, 452, 847
+Ružany, DarkCyan, 459, 469, 999, 963
+Kosaŭ, DarkCyan, 825, 827, 67, 962
+Ivacevičy, DarkCyan, 819, 66, 817, 822, 826, 829, 832, 830, 831, 828
+Slonim, DarkCyan, 964, 965, 961, 114, 960, 967, 958, 966, 933, 930
+Zeĺva, DarkCyan, 997, 998, 995, 1001, 1000, 996, 106
+Vaŭkavysk, DarkCyan, 849, 852, 850, 845, 844, 103
+Kazloŭśčyna, DarkCyan, 969, 974, 959
+Bélaazórsk, DarkCyan, 838, 61, 833, 835
+Ź∂étlaŭ, DarkCyan, 968, 970, 971, 975
+Luninéc, Black, 88, 867, 864, 866, 868, 865, 869, 860, 863
+Hancavičy, Black, 954, 955, 951, 62, 956, 957, 953, 952
+Láxavičy, Black, 946, 942, 943, 949, 945, 948, 944, 90, 947
+Baranavičy, Black, 934, 936, 931, 938, 932, 935, 941, 1303, 928, 937
+Hara∂išča, Black, 929, 939, 940, 992
+Hara∂éja, Black, 1093, 1086, 1089, 164, 1092, 989, 994
+Náśviž, Black, 1102, 1101, 1087, 1088, 129, 1090, 1091
+Kléck, Black, 1077, 121, 1082, 1080, 1081, 1084, 1078, 1085, 1083
+Kareličy, Black, 988, 993, 987, 986, 108, 976, 990, 991
+Lúbča, Black, 980, 978, 979
+Dvarec, Black, 28, 973, 972
+Navaharodak, Black, 984, 111, 982, 981, 977, 985, 983
+Roś, MediumOrchid, 851, 846, 848, 853, 859
+Bérastavica, MediumOrchid, 447, 451, 449, 448, 446, 450
+Masty, MediumOrchid, 858, 110, 855, 854, 857
+Ski∂éĺ, MediumOrchid, 434, 856, 439, 437, 27
+Horadná, MediumOrchid, 438, 442, 441, 440, 444, 445, 1299, 436, 443, 433, 435
+Vyzna, MediumSeaGreen, 1079, 1069, 1074, 166, 1283, 1185, 1245, 950
+Starobin, MediumSeaGreen, 160, 1212, 1200, 1268, 1279, 1179, 1133
+Salihorsk, MediumSeaGreen, 1166, 1235, 133, 1163
+Mikaševičy, MediumSeaGreen, 878, 880, 871, 89, 862, 861
+Lúbań, MediumSeaGreen, 1206, 1172, 1249, 1276, 1147, 125, 1209, 1140, 1216
+Urečča, MediumSeaGreen, 1242, 159, 1264, 1143
+Sluck, MediumSeaGreen, 1190, 1151, 1155, 1290, 1252, 131, 1219, 1153, 1259, 1292, 1257, 1224, 1175
+Kapyĺ, MediumSeaGreen, 1075, 1067, 1072, 122, 1071, 1070, 1076, 1068, 1073
+Staryja Darohi, MediumSeaGreen, 1129, 1287, 1188, 134, 1203, 1288, 1222, 1255
+Hlusk, MediumSeaGreen, 1214, 1247, 1145, 140, 1177, 1210
+Žytkavičy, GoldenRod, 879, 44, 874, 877, 872, 881
+Rudabélka, GoldenRod, 1048, 1051, 1046, 1281, 52, 1047, 1045, 1049, 1050
+Pétrykaŭ, GoldenRod, 894, 895, 887, 897, 891, 889, 896, 886, 885, 892
+Kapatkévičy, GoldenRod, 890, 883, 898, 893, 884, 888
+Léĺčycy, GoldenRod, 583, 579, 586, 581, 578, 575, 580, 577, 585
+Mazyr, GoldenRod, 902, 900, 899, 901, 906, 50, 905, 907, 908, 903, 904
+Jeĺsk, GoldenRod, 567, 569, 574, 573, 568, 570, 43, 572, 571
+Naroŭlá, GoldenRod, 595, 596, 594, 597
+Xvojniki, GoldenRod, 660, 659, 656, 58, 655, 657, 658
+Kalénkavičy, GoldenRod, 46, 914, 923, 916, 922, 925, 909, 912, 924, 910
+Azaryčy, GoldenRod, 1052, 926, 913, 919, 918, 921
+Kamaryn, GoldenRod, 653, 650
+Brahin, GoldenRod, 648, 651, 40, 652, 654, 649
+Stoŭpcy, DarkBlue, 135, 1094, 1099, 1103, 1100, 1098
+Ivánéc, DarkBlue, 303, 1096, 1097, 1095
+Zaslaŭje, DarkBlue, 1132, 1194, 126, 1169, 1135, 1199, 304, 1139
+Kojdanaŭ, DarkBlue, 1055, 119, 1058, 1060, 1056, 1054
+Fanipaĺ, DarkBlue, 1059, 120, 1053, 1057, 1063
+Mačuliščy, DarkBlue, 1234, 1168, 25, 1205, 1171, 1267, 1137, 1239
+Uzda, DarkBlue, 1064, 136, 1062, 1065, 1066, 1061
+Ru∂énsk, DarkBlue, 1228, 1266, 185, 165, 1192, 1262
+Śvislač, DarkBlue, 157, 1158, 1295, 1226
+Marjina Horka, DarkBlue, 1131, 130, 1196, 1160, 1162, 1230, 1233
+Tatarka, DarkBlue, 1152, 1150, 1211, 1184
+Asipavičy, DarkBlue, 1251, 1218, 151, 1184, 1284
+Jalizava, DarkBlue, 1243, 1244, 1181, 1277
+Ihumén, DarkBlue, 1208, 137, 1231, 1241
+Śmilavičy, DarkBlue, 1278, 1142, 1148, 1248
+Smalávičy, DarkBlue, 1146, 1178, 1273, 1215, 132, 1270, 1282
+Lahojsk, DarkBlue, 1202, 1272, 315, 316, 317, 313, 314, 318
+Radaškovičy, DarkBlue, 1165, 1237, 302, 300, 290, 289
+Maladečna, DarkBlue, 299, 301, 297, 298, 127, 295, 296, 286
+Pléščanicy, DarkBlue, 310, 312, 85, 311, 320, 321, 319, 356, 357
+Žo∂ina, DarkBlue, 1306, 1197, 363
+Zálóny Bor, DarkBlue, 186, 1285, 1182, 1275, 1174
+Bárezań, DarkBlue, 1289, 117, 1128, 1223, 1189, 1256, 1187
+Báhoméĺ, DarkBlue, 355, 371, 370, 172, 367
+Dokšycy, DarkBlue, 372, 96, 375, 369, 374, 368
+Ménsk, Blue, 1308
+Iŭje, OrangeRed, 416, 20, 414, 415, 417, 410, 411
+Valožyn, OrangeRed, 309, 307, 305, 306, 308
+Smarhoń, OrangeRed, 327, 326, 325, 328, 323, 322, 115, 324
+Ašmány, OrangeRed, 426, 425, 427, 418, 18, 421, 425, 420, 419, 422, 424, 423
+Astravéc, OrangeRed, 430, 112, 431, 429, 428
+Śvir, OrangeRed, 337, 432, 324, 347, 322
+Má∂él, OrangeRed, 336, 334, 335, 333
+Váléjka, OrangeRed, 282, 281, 283, 280, 37, 284, 285
+Kryvičy, OrangeRed, 329, 330, 331, 287, 288, 332, 377, 373, 376
+Varapajeva, OrangeRed, 341, 338, 339, 340
+Pastavy, OrangeRed, 346, 345, 14, 343, 342, 344
+Lébé∂éŭ, OrangeRed, 294, 293, 291, 292
+Héranóny, OrangeRed, 400, 21, 413, 402, 412
+Hlybokaje, OrangeRed, 260, 271, 270, 262, 4, 265, 264
+Astryna, DodgerBlue, 396, 391, 397, 389
+Bározaŭka, DodgerBlue, 109, 776, 779
+Žaludok, DodgerBlue, 390, 395, 768, 392, 771
+Raduń, DodgerBlue, 403, 401, 407, 398, 406, 405, 399, 404
+Várenaŭ, DodgerBlue, 409, 104, 408, 400
+Lida, DodgerBlue, 777, 770, 774, 772, 1, 773, 769, 775, 778
+Ščučyn, DodgerBlue, 388, 387, 393, 394
+Vasilévičy, Maroon, 788, 55, 915, 920, 911, 796, 786
+Zarečča, Maroon, 787, 789, 56, 792, 785, 781
+Rečyca, Maroon, 784, 795, 54, 783, 791, 794, 790, 782, 793, 780
+Lojeŭ, Maroon, 642, 641, 643, 647, 646, 49, 644, 645
+Homéĺ, Maroon, 609, 601, 611, 613, 608, 1300, 602, 600, 617, 604, 614, 603, 606, 598, 607, 612
+Céraxoŭka, Maroon, 610, 599, 615, 665, 671, 661, 674, 662, 673, 669, 666, 667
+Dobruš, Maroon, 664, 670, 668, 672, 663, 42
+Vétka, Maroon, 22, 620, 623, 619
+Baĺšavik, Maroon, 616, 1004, 1010, 180, 1002, 627, 624
+Uvaravičy, Maroon, 1005, 1011, 618, 605
+Buda-Kašalóva, Maroon, 1009, 1003, 181, 167, 41, 168, 169, 1008, 1006, 1007
+Čačersk, Maroon, 625, 621, 622, 927, 626, 628, 632, 630, 635, 634, 629, 59, 631, 633
+Sasnovy Bor, CornflowerBlue, 917, 1038, 1043, 1041
+Paryčy, CornflowerBlue, 1039, 1044, 1040, 70
+Babrujsk, CornflowerBlue, 1260, 1221, 1191, 1293, 1301, 1254, 190, 1225, 1154, 1258, 1291
+Kačeryčy, CornflowerBlue, 143, 192, 188, 187, 189, 193, 191, 1156
+Rahačoŭ, CornflowerBlue, 1024, 1022, 1026, 1020, 1029, 1028, 1035, 19, 1033, 1030, 1023, 1025, 1027, 1032, 1031, 1036, 1034, 1021
+Žlobin, CornflowerBlue, 71, 73, 82,  83, 74, 39, 75, 81, 72, 84, 86
+Strešyn, CornflowerBlue, 80, 77, 78, 79
+Šacilavičy, CornflowerBlue, 1037, 57, 76, 1042
+Karma, CornflowerBlue, 1018, 1014, 1012, 1016, 1013, 1019,47, 1017, 1015
+Prapojsk, CornflowerBlue, 1104, 1108, 152, 1106, 1105, 1107
+Krasnapoĺlé, CornflowerBlue, 636, 147, 637, 640, 639, 638
+Barysaŭ, DarkGoldenRod, 16, 358, 366, 365, 360, 362, 364, 361, 360
+Kruhlaje, DarkGoldenRod, 1159, 1193, 1261, 149, 1126, 1263
+Bobr, DarkGoldenRod, 354, 237, 350
+Krupki, DarkGoldenRod, 163, 123, 351, 352
+Xalapéničy, DarkGoldenRod, 348, 353, 349, 359, 32
+Talačyn, DarkGoldenRod, 241, 238, 236, 242, 239
+Lukomaĺ, DarkGoldenRod, 34, 23, 8
+Kličaŭ, IndianRed, 1161, 145, 1127, 1229, 1130, 1195
+Byxaŭ, IndianRed, 1246, 1280, 1220, 1144, 1176, 1186, 139, 1213, 1286, 1180
+Mahilóŭ, IndianRed, 1201, 1136, 1236, 1274, 1138, 1207, 1240, 1141, 1204, 1297, 1134, 1296, 1269, 1173, 1170, 1167
+Bályničy, IndianRed, 1227, 1164, 1232, 1157, 138, 1265, 1198, 1294
+Drybin, IndianRed, 1121, 1123, 142, 1122, 1124
+Čavusy, IndianRed, 1110, 1111, 1112, 1113, 29, 1115, 1114, 1109
+Amścislaŭ, IndianRed, 762, 767, 766, 764, 150, 761, 760, 763, 765
+Čerykaŭ, IndianRed, 1116, 1117, 154, 1118, 1120, 1119
+Kaścúkovičy, IndianRed, 695, 146, 699, 698, 697, 693, 696, 694
+Xocimsk, IndianRed, 692, 691, 153, 690, 688, 689
+Klimavičy, IndianRed, 681, 686, 682, 684, 687, 685, 680, 683, 144
+Kryčaŭ, IndianRed, 676, 675, 679, 148, 677, 678
+Lépéĺ, Grey, 178, 173, 174, 171, 9, 177, 179, 175, 176
+Vi∂y, Grey, 257, 258, 253
+Braslaŭ, Grey, 254, 12, 252, 251, 256, 250
+Šarkaŭščyna, Grey, 814, 816, 13, 811, 812, 815, 813
+Padśviĺlé, Grey, 266, 267, 259, 261, 269
+Ušačy, Grey, 245, 249, 243, 246, 244, 248, 247, 10
+Béšankovičy, Grey, 273, 95, 232, 233, 230, 235, 234
+Čašniki, Grey, 31, 36, 7, 35, 33
+Šumilina, Grey, 275, 279, 278, 272
+Obaĺ, Grey, 274, 277, 276, 229
+Polacak, Grey, 729, 727, 732, 725, 15, 724, 1305, 731, 735, 737, 730
+Vétryna, Grey, 733, 726, 734, 736, 263, 268, 728
+Rasony, Grey, 720, 722, 99, 723, 718, 719, 721
+Drysna, Grey, 711, 712, 710, 716, 717, 11, 714, 709, 715, 713
+Ƌisna, Grey, 701, 97, 705, 707, 700
+Móry, Grey, 708, 702, 706, 255, 703, 704, 6
+Haradok, DarkTurquoise, 379, 2, 384, 385, 381
+Jezáršča, DarkTurquoise, 383, 386, 378, 380, 382
+Sénna, DarkTurquoise, 198, 201, 17, 197, 195, 200
+Bahušeŭsk, DarkTurquoise, 199, 196, 194, 202, 740
+Lózna, DarkTurquoise, 743, 741, 739, 738, 742
+Vicébsk, DarkTurquoise, 206, 205, 214, 1304, 203, 215, 207, 208, 231, 210
+Janavičy, DarkTurquoise, 213, 228, 212
+Suraž, DarkTurquoise, 204, 209, 211
+Koxanaŭ, OliveDrab, 240, 804, 798
+Vorša, OliveDrab, 0, 799, 810, 802, 809, 808
+Barań, OliveDrab, 98, 26, 805, 797, 806
+Kopyś, OliveDrab, 1238, 158, 803
+Škloŭ, OliveDrab, 1253, 24, 1271, 1125, 1183, 1250, 1149, 1217
+Horki, OliveDrab, 757, 759, 753, 758, 755, 141, 752, 751, 754, 756
+Dubroŭna, OliveDrab, 749, 748, 746, 747, 744, 750, 5
+Arexaŭsk, OliveDrab, 801, 807, 800, 745, 1309
